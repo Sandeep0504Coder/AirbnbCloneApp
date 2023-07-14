@@ -1,0 +1,25 @@
+.card{
+    width:175px;
+    font-size: 12px;
+    flex:0 0 auto;
+    display:flex;
+    flex-direction: column;
+}
+.cardImg{
+width:100%;
+border-radius: 10px;
+
+}
+.star{
+    height: 14px;
+}
+.cardStats{
+    display:flex;
+    align-items: center;
+}
+.gray{
+    color:#918E98;
+}
+.bold{
+    font-weight: bold;
+}
